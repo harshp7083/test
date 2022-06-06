@@ -21,8 +21,9 @@ int main(){
     }
      if (Swaps == 0) {
         break;
+//editd
     }   
-}    
+}   printf("hello\n") ;
     printf("Array is sorted in %d swaps.\n",s);
     printf("First Element: %d\n",a[0]);
     printf("Last Element: %d\n",a[n-1]);
